@@ -1,0 +1,23 @@
+.content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+button {
+    width: 490px;
+    margin-top: 1rem;
+}
+
+.button__pj {
+    float: right;
+}
+
+.buttons__cadastrar {
+    margin-top: 1rem;
+}
+
+.input__width {
+    width: 95%;
+}
